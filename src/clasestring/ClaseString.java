@@ -103,7 +103,6 @@ public class ClaseString {
                     + " contenido = " + arrayChar[i]);
         }
         
-        //Comentario al final del método MAIN
     }
     
 }
